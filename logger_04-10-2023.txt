@@ -1,0 +1,706 @@
+04-10-2023 13:47:20 :Started
+04-10-2023 13:47:52 :Program ended
+04-10-2023 19:11:46 :Started
+04-10-2023 19:11:59 :Started
+04-10-2023 19:12:16 :Started
+04-10-2023 19:12:35 :Started
+04-10-2023 19:12:45 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:12:45 :
+Warrior name: ff. Stamina is 31, received a 4 damage points.
+04-10-2023 19:12:45 :
+Wizard name: yy is performing a FireBall attack.
+04-10-2023 19:12:45 :
+Wizard name: yy casts a Fireball on ff, mana is 34
+04-10-2023 19:12:45 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:12:45 :
+Warrior name: ff. Stamina is 32, received a 4 damage points.
+04-10-2023 19:12:45 :
+Wizard name: yy is performing a FireBall attack.
+04-10-2023 19:12:45 :
+Wizard name: yy casts a Fireball on ff, mana is 29
+04-10-2023 19:12:45 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:12:45 :
+Warrior name: ff. Stamina is 33, received a 4 damage points.
+04-10-2023 19:12:45 :
+Wizard name: yy is performing a FireBall attack.
+04-10-2023 19:12:45 :
+Wizard name: yy casts a Fireball on ff, mana is 24
+04-10-2023 19:12:45 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:12:45 :
+Warrior name: ff. Stamina is 34, received a 4 damage points.
+04-10-2023 19:12:45 :
+Wizard name: yy is performing a FireBall attack.
+04-10-2023 19:12:45 :
+Wizard name: yy casts a Fireball on ff, mana is 19
+04-10-2023 19:12:45 :
+The winner is yy.
+04-10-2023 19:12:45 :Program ended
+04-10-2023 19:18:28 :Started
+04-10-2023 19:18:57 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:57 :
+Warrior name: hh. Stamina is 23, received a 6 damage points.
+04-10-2023 19:18:57 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 26, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Warrior name: hh. Stamina is 18, received a 6 damage points.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 27, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Warrior name: hh. Stamina is 13, received a 6 damage points.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 28, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Warrior name: hh. Stamina is 8, received a 6 damage points.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 29, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Warrior name: hh. Stamina is 3, received a 6 damage points.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 30, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 31, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 32, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 33, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 34, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 35, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 36, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 37, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 38, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 39, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 40, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 41, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 42, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 43, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 44, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 45, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 46, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 47, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 48, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 49, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 50, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 51, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 52, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 53, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 54, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 55, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 56, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 57, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 58, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 59, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 60, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 61, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 62, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 63, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 64, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 65, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 66, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 67, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 68, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 69, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 70, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 71, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 72, intelligence is 25.
+04-10-2023 19:18:58 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:58 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:58 :
+Wizard name: pp hits hh with the staff , mana is 73, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 74, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 75, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 76, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 77, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 78, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 79, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 80, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 81, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 82, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 83, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 84, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 85, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 86, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 87, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 88, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 89, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 90, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 91, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 92, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 93, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 94, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 95, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 96, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 97, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 98, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 99, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 100, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 101, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 102, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 103, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 104, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 105, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 106, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 107, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 108, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 109, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 110, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 111, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 112, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 113, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 114, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 115, intelligence is 25.
+04-10-2023 19:18:59 :
+Warrior name: hh is performing a Heavy attack.
+04-10-2023 19:18:59 :
+Wizard name: pp is performing a Staff hit attack.
+04-10-2023 19:18:59 :
+Wizard name: pp hits hh with the staff , mana is 116, intelligence is 25.
+04-10-2023 19:18:59 :
+The winner is pp.
+04-10-2023 19:18:59 :Program ended
+04-10-2023 19:24:45 :Started
+04-10-2023 19:25:36 :Started
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 47, received a 5 damage points.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :
+Wizard name: nn casts a Fireball on ff, mana is 10
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 48, received a 5 damage points.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :
+Wizard name: nn casts a Fireball on ff, mana is 5
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 49, received a 5 damage points.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 50, received a 5 damage points.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 51, received a 5 damage points.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 52, received a 5 damage points.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 53, received a 5 damage points.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 54, received a 5 damage points.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 55, received a 5 damage points.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 56, received a 5 damage points.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 57, received a 5 damage points.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 58, received a 5 damage points.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 59, received a 5 damage points.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 60, received a 5 damage points.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 61, received a 5 damage points.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :
+Warrior name: ff is performing a Weak attack.
+04-10-2023 19:25:48 :
+Warrior name: ff. Stamina is 62, received a 5 damage points.
+04-10-2023 19:25:48 :
+The winner is ff.
+04-10-2023 19:25:48 :
+Wizard name: nn is performing a FireBall attack.
+04-10-2023 19:25:48 :Program ended
