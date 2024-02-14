@@ -1,4 +1,4 @@
-# IronBattle homework
+# IronBattle
 A basic RPG battle simulator that will consist of having two characters fighting to determine one winner.
 
  # Description
