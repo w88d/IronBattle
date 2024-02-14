@@ -44,6 +44,3 @@ a complete log of the battle is displayed on the command line. When the battle i
 
 [JavaFiles](https://www.w3schools.com/java/java_files.asp)
 
-
- # by
-Wedad - Amal - Mona - Aseel - Thuraya
